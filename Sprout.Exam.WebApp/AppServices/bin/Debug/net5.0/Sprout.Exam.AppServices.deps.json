@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sprout.Exam.AppServices/1.0.0": {
+        "dependencies": {
+          "Sprout.Exam.AppServices.Interfaces": "1.0.0",
+          "Sprout.Exam.Repositories.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Sprout.Exam.AppServices.dll": {}
+        }
+      },
+      "Sprout.Exam.AppServices.Interfaces/1.0.0": {
+        "dependencies": {
+          "Sprout.Exam.Business": "1.0.0"
+        },
+        "runtime": {
+          "Sprout.Exam.AppServices.Interfaces.dll": {}
+        }
+      },
+      "Sprout.Exam.Business/1.0.0": {
+        "dependencies": {
+          "Sprout.Exam.Common": "1.0.0"
+        },
+        "runtime": {
+          "Sprout.Exam.Business.dll": {}
+        }
+      },
+      "Sprout.Exam.Common/1.0.0": {
+        "runtime": {
+          "Sprout.Exam.Common.dll": {}
+        }
+      },
+      "Sprout.Exam.Repositories.Interfaces/1.0.0": {
+        "dependencies": {
+          "Sprout.Exam.Business": "1.0.0"
+        },
+        "runtime": {
+          "Sprout.Exam.Repositories.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sprout.Exam.AppServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sprout.Exam.AppServices.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sprout.Exam.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sprout.Exam.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sprout.Exam.Repositories.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

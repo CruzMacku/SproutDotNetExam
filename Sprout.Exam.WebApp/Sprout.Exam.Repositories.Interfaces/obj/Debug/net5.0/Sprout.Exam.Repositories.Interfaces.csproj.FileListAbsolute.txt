@@ -1,0 +1,17 @@
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.deps.json
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\ref\Sprout.Exam.Repositories.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.pdb
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Business.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.AssemblyInfo.cs
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.csproj.CopyComplete
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\ref\Sprout.Exam.Repositories.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.Repositories.Interfaces\obj\Debug\net5.0\Sprout.Exam.Repositories.Interfaces.pdb

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sprout.Exam.AppServices.Interfaces\Sprout.Exam.AppServices.Interfaces.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.Repositories.Interfaces\Sprout.Exam.Repositories.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

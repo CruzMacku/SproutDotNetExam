@@ -1,0 +1,17 @@
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.deps.json
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\ref\Sprout.Exam.AppServices.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.pdb
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.Business.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.AssemblyInfo.cs
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.csproj.CopyComplete
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\ref\Sprout.Exam.AppServices.Interfaces.dll
+C:\Users\Macrossv3\Desktop\EXAM SPROUT\Sprout.Exam.WebApp\Sprout.Exam.AppServices.Interfaces\obj\Debug\net5.0\Sprout.Exam.AppServices.Interfaces.pdb
